@@ -4,9 +4,6 @@ Technologist / Leader / Maven / Architect / Engineer / Solver of Problems / Adve
 <img src="./images/ts_zachary_bw.jpg" alt="Zachary Hill" width="300"/>
 
 ## Stats
-### Dark Theme
-![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachreborn&show_icons=true&theme=dark)
-
 ### Monokai Theme
 ![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachreborn&show_icons=true&theme=monokai)
 
