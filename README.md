@@ -14,5 +14,5 @@ For more information about me, please visit my [website](https://zacharyhill.co)
 [![AWS Certified Solutions Architect - Professional](https://images.credly.com/size/110x110/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png)](https://www.credly.com/badges/b27e3a5a-35e8-45ac-b7fa-a7a1642cadd6/public_url "AWS Certified Solutions Architect - Professional")
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/d4953fe9-6d0d-4a43-ab9e-11dfc3d7f1de/public_url "AWS Certified Solutions Architect - Associate")
 
-### Trophies:
+### .Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachreborn&theme=monokai&no-frame=true&column=5" alt="zachreborn" /></a> </p>
